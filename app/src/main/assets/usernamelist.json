@@ -1,0 +1,24 @@
+{
+  "usrdetails": [
+    {
+      "usrname": "vinay",
+      "pass": "vinay123",
+      "qrimage": "@drawable/qr1"
+    },
+    {
+      "usrname": "sindhu",
+      "pass": "sindhu123",
+      "qrimage": "@drawable/qr2"
+    },
+    {
+      "usrname": "shariq",
+      "pass": "shariq123",
+      "qrimage": "@drawable/qr3"
+    },
+    {
+      "usrname": "vidhyuth",
+      "pass": "vidhyuth123",
+      "qrimage": "@drawable/qr4"
+    }
+  ]
+}

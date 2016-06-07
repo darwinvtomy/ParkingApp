@@ -1,0 +1,28 @@
+{
+  "parkingslot": [
+    {
+      "slotid": "1st",
+      "id": "A",
+      "idg": "B",
+      "color": "1"
+    },
+    {
+      "slotid": "2nd",
+      "id": "C",
+      "idg": "D",
+      "color": "1"
+    },
+    {
+      "slotid": "3rd",
+      "id": "E",
+      "idg": "F",
+      "color": "1"
+    },
+    {
+      "slotid": "4th",
+      "id": "G",
+      "idg": "H",
+      "color": "1"
+    }
+  ]
+}
